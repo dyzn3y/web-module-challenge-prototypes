@@ -90,10 +90,10 @@ Baby.prototype.play = function(favoriteToy) {
 /* 
   TASK 4
   In your own words explain the four principles for the "this" keyword below:
-  1. default binding: 
-  2. implicit binding: 
-  3. explicit binding: 
-  4. constructor call binding: 
+  1. Window/Global Object Binding: this refers to the window/console Object 
+  2. Implicit binding: this refers to the object before the dot.
+  3. New Binding: this refers to the instantiation of the object that is created and returned by the constructor function.
+  4. Explicit binding: this is explicitly defined by using JS's call or apply methods. 
 */
 
 ///////// END OF CHALLENGE /////////
