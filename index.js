@@ -90,10 +90,10 @@ Baby.prototype.play = function(favoriteToy) {
 /* 
   TASK 4
   In your own words explain the four principles for the "this" keyword below:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. default binding: 
+  2. implicit binding: 
+  3. explicit binding: 
+  4. constructor call binding: 
 */
 
 ///////// END OF CHALLENGE /////////
